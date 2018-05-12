@@ -1,0 +1,36 @@
+_repo: History-of-Rationalism-Embracing-a-Survey-of-the-Present-State-of-Protestant-Theology_19397
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurst, J. F. (John Fletcher)
+    alias: Hurst, John Fletcher
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '8646'
+    url: http://www.gutenberg.org/2009/agents/8646
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_Hurst
+description: '"Rationalism is the most recent, but not the least violent and insidious,
+  of all the developments of skepticism. We purpose to show its historical position,
+  and to present, as faithfully as possible, its antagonism to evangelical Christianity.
+  The guardians of the interests of the church cannot excuse themselves from effort
+  toward the eradication of this error by saying that it is one which will soon decay
+  by the force of its natural autumn"--Introduction. (PsycINFO Database Record (c)
+  2010 APA, all rights reserved).'
+gutenberg_issued: '2006-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Protestantism'
+- !lcsh 'Rationalism -- History'
+title: History of Rationalism Embracing a Survey of the Present State of Protestant
+  Theology
+url: http://www.gutenberg.org/ebooks/19397
